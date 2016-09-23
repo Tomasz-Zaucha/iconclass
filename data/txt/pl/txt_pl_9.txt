@@ -13,7 +13,7 @@
 #91A14(EREBUS)|other primeval deities: Erebus
 #91A14(NOX)|other primeval deities: Nox
 #91A2|separation of the elements by some creative force ~ classical mythology
-#91A21|creation of the earth ~ classical mythology
+#91A21|stworzenie ziemi ~ mitologia klasyczna
 #91A22|creation of the waters ~ classical mythology
 #91A23|creation of the air, winds and stars ~ classical mythology
 91B|potomstwo Uranosa i Gai (tytani, cyklopi i hekatonchejrowie)
